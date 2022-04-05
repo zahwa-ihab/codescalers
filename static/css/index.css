@@ -1,0 +1,43 @@
+.card{
+  opacity: 50%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-bottom: 15px;
+  
+ 
+}
+
+
+
+body{
+    padding:0;
+    margin:0;
+   }
+.navbar{
+    opacity: 10%;
+    
+    }
+h2{
+      margin-top: 0px;
+      padding-top: 0px;
+    }  
+  
+  
+
+.full-bg-img{
+height: 100vh;
+background-image: url(images/pic7.jpg);
+  }
+
+#intro{
+    height: 100vh;
+    background-image: url(images/pic7.jpg);
+    height: 650px;
+    
+    }
+#intro-words{
+       
+        font-size: 80px;
+        padding-top: 70px;
+        text-align: center;
+       }  
+
